@@ -1,5 +1,6 @@
 !a       = "http://www.amazon.co.uk/s/?field-keywords="
 !an      = "http://antinews.nushackers.org/search?q="
+!bin     = "http://www.binsearch.info/?max=100&adv_age=1100&server=&q="
 !e       = "http://www.erowid.org/search.php?q="
 !eb      = "http://rogerebert.suntimes.com/section/bossv2?q="
 !etym    = "http://etymonline.com/index.php?search="
