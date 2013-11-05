@@ -7,7 +7,7 @@ class Search
 
   def url 
     if input =~ %r"^(https?|ftp|file)://"
-      return input
+      return input.chomp
     else
       words = input.split(' ')
       words.unshift('!ddg') unless engines.has_key?(words.first)
