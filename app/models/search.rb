@@ -11,7 +11,7 @@ class Search
     else
       words = input.split(' ')
       words.unshift('!ddg') unless engines.has_key?(words.first)
-      return engines[words.shift(1).join] + CGI::escape(words.join(' '))
+      return engines[words.shift] + CGI::escape(words.join ?\s)
     end
   end
 
