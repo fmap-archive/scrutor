@@ -20,7 +20,7 @@
 !hw      = "http://www.haskell.org/haskellwiki/index.php?search="
 !hwiki   = "http://www.haskell.org/haskellwiki/index.php?search="
 !it      = "http://www.indietorrents.com/torrents.php?searchstr="
-!lg      = "http://gen.lib.rus.ec/search.php?req="
+!lg      = "http://gen.lib.rus.ec/search.php?open=0&view=detailed&column%5B%5D=title&column%5B%5D=author&column%5B%5D=year&column%5B%5D=extension&req="
 !lw      = "http://lesswrong.com/search/results?cx=015839050583929870010%3A-802ptn4igi&cof=FORID%3A11&q="
 !lyah    = "https://duckduckgo.com/?kp=-1&kz=-1&kf=-1&kg=p&ks=m&kw=s&km=l&ku=1&ko=-1&k4=-1&ke=-1&kk=s&kr=-1&kq=-1&k1=-1&kx=r&q=site%3Alearnyouahaskell.com+"
 !nlb     = "http://nlbsearchplus.nlb.gov.sg/primo_library/libweb/action/search.do?fn=search&srt=rank&fctV=physical_resources&vl(freeText0)="
